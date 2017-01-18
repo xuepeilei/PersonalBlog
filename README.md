@@ -1,5 +1,6 @@
 # PersonalBlog
-一些重要文件的说明：<br> 
+##一些重要文件的说明：<br> 
+
 >drwxrwxrwx adminbox 后台管理系统<br> 
 >>-rwxrwxrwx draw_math 验证码制作<br> 
 >-rwxrwxrwx check.php 检查是否已有session<br> 
@@ -18,11 +19,12 @@
 >>>>-rwxrwxrwx search_fns.php 封装的用于查询的函数<br> 
 
 
->drwxrwxrwx assets 个人博客资源<br> 
+
 >-rwxrwxrwx index.php 个人博客首页<br> 
 >-rwxrwxrwx board.php 留言板<br> 
 >-rwxrwxrwx response.php 回复留言<br> 
->>drwxrwxrwx css 后台管理系统的css<br> 
+>drwxrwxrwx assets 个人博客资源<br> 
+>>drwxrwxrwx css 个人博客的css<br> 
 >>drwxrwxrwx images<br> 
 >>drwxrwxrwx js<br> 
 >>drwxrwxrwx php<br> 
