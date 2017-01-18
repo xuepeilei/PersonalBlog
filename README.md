@@ -38,4 +38,12 @@
 >>>>-rwxrwxrwx search_fns.php 封装的用于查询的函数<br> 
 
 
+##网页效果图：
+![](https://github.com/xuepeilei/PersonalBlog/raw/master/sketch/1.jpg)
+![](https://github.com/xuepeilei/PersonalBlog/raw/master/sketch/2.jpg)  
+![](https://github.com/xuepeilei/PersonalBlog/raw/master/sketch/3.jpg)  
+![](https://github.com/xuepeilei/PersonalBlog/raw/master/sketch/4.jpg)  
+![](https://github.com/xuepeilei/PersonalBlog/raw/master/sketch/5.jpg)  
+
+
 ###如果有任何问题，请联系我！邮箱：xuepeilei@163.com<br> 
