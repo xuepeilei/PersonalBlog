@@ -1,0 +1,92 @@
+
+.menu {
+	width: 350px;
+	margin-left:5px;
+	list-style: none;
+	counter-reset: li;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+}
+.menu:before, .menu:after {
+	content: "";
+	display: table;
+}
+.menu:after {
+	clear: both;
+}
+.menu {
+	zoom:1;
+}
+  
+
+.menu li {
+	position: relative;
+	float: left;
+	cursor: pointer;
+	height: 30%;
+	width: 40%;
+	margin: 10px 0 0 10px;
+	color: #fff;
+}
+
+.menu .cover {
+	z-index: 2;
+}
+.menu .cover:focus {
+	outline: 0;
+}
+
+.menu li::after {
+ content: counter(li);
+ counter-increment: li;
+ font: italic bold 10px serif, georgia;
+ position: absolute;
+ color: rgba(255, 255, 255, .1);
+ opacity: 0;
+ -webkit-transition: all .2s ease-out;
+ -moz-transition: all .2s ease-out;
+ -ms-transition: all .2s ease-out;
+ -o-transition: all .2s ease-out;
+ transition: all .2s ease-out;
+}
+ .menu li:hover::after, .menu li:focus::after {
+ font-size: 80px;
+ opacity: 1;
+}
+ .menu .cover::after {
+ z-index: -1;
+}
+
+
+
+.menu li:nth-child(1){
+ background-color:#778899;
+}
+ .menu li:nth-child(2){
+ background-color: #91ab31;
+}
+ .menu li:nth-child(3){
+ background-color: #3399CC;	
+}
+ .menu li:nth-child(4){
+ background-color: #e58600;
+}
+ .menu li:nth-child(5){
+ background-color: #FF3300;
+}
+ .menu li:nth-child(6){
+ background-color: #CC33CC;
+}
+
+.menu .title {
+	position: absolute;
+	margin-top:20%;
+	text-align: center;
+	font: italic bold 20px 'trebuchet MS', Arial, helvetica;
+	opacity: .2;
+}
+.menu li:hover .title {
+	opacity: .7;
+}
+
