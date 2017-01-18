@@ -1,6 +1,10 @@
 # PersonalBlog
 一些重要文件的说明：<br> 
 >drwxrwxrwx adminbox 后台管理系统<br> 
+>>-rwxrwxrwx draw_math 验证码制作<br> 
+>-rwxrwxrwx check.php 检查是否已有session<br> 
+>>-rwxrwxrwx index.php 后台管理系统的登录页面<br> 
+>>-rwxrwxrwx register.php 注册页面<br
 >>drwxrwxrwx assets 后台管理系统资源<br> 
 >>>drwxrwxrwx css 后台管理系统的css<br> 
 >>>drwxrwxrwx images<br> 
@@ -12,11 +16,12 @@
 >>>>-rwxrwxrwx see.php 查询页面<br> 
 >>>>-rwxrwxrwx search_exe.php 查询操作的数据库操作<br> 
 >>>>-rwxrwxrwx search_fns.php 封装的用于查询的函数<br> 
->-rwxrwxrwx check.php 检查是否已有session<br> 
->>-rwxrwxrwx draw_math 验证码制作<br> 
->>-rwxrwxrwx index.php 后台管理系统的登录页面<br> 
->>-rwxrwxrwx register.php 注册页面<br> 
+
+
 >drwxrwxrwx assets 个人博客资源<br> 
+>-rwxrwxrwx index.php 个人博客首页<br> 
+>-rwxrwxrwx board.php 留言板<br> 
+>-rwxrwxrwx response.php 回复留言<br> 
 >>drwxrwxrwx css 后台管理系统的css<br> 
 >>drwxrwxrwx images<br> 
 >>drwxrwxrwx js<br> 
@@ -29,7 +34,5 @@
 >>>-rwxrwxrwx pdf.php 颁发证书<br> 
 >>>-rwxrwxrwx increment_ajax.php 点赞<br> 
 >>>-rwxrwxrwx article_ajax.php 博客内容<br> 
->-rwxrwxrwx index.php 个人博客首页<br> 
->-rwxrwxrwx board.php 留言板<br> 
->-rwxrwxrwx response.php 回复留言<br> 
+
 ###如果有任何问题，请联系我！邮箱：xuepeilei@163.com<br> 
