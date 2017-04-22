@@ -38,7 +38,7 @@
 >>>>-rwxrwxrwx search_fns.php 封装的用于查询的函数<br> 
 
 
-<h2>网页效果图：</h2>
+<h2>截图：</h2>
 
 ![](https://github.com/xuepeilei/PersonalBlog/raw/master/sketch/1.jpg)
 
