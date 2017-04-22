@@ -1,5 +1,5 @@
 # PersonalBlog
-##一些重要文件的说明：<br> 
+<h2>一些重要文件的说明：</h2>
 
 >-rwxrwxrwx index.php 个人博客首页<br> 
 >-rwxrwxrwx board.php 留言板<br> 
@@ -38,7 +38,7 @@
 >>>>-rwxrwxrwx search_fns.php 封装的用于查询的函数<br> 
 
 
-##网页效果图：
+<h2>网页效果图：</h2>
 ![](https://github.com/xuepeilei/PersonalBlog/raw/master/sketch/1.jpg)
 ![](https://github.com/xuepeilei/PersonalBlog/raw/master/sketch/2.jpg)  
 ![](https://github.com/xuepeilei/PersonalBlog/raw/master/sketch/3.jpg)  
@@ -46,4 +46,4 @@
 ![](https://github.com/xuepeilei/PersonalBlog/raw/master/sketch/5.jpg)  
 
 
-###如果有任何问题，请联系我！邮箱：xuepeilei@163.com<br> 
+<h1>如果有任何问题，请联系我！邮箱：xuepeilei@163.com</h1>
