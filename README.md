@@ -39,11 +39,17 @@
 
 
 <h2>网页效果图：</h2>
+
 ![](https://github.com/xuepeilei/PersonalBlog/raw/master/sketch/1.jpg)
-![](https://github.com/xuepeilei/PersonalBlog/raw/master/sketch/2.jpg)  
-![](https://github.com/xuepeilei/PersonalBlog/raw/master/sketch/3.jpg)  
-![](https://github.com/xuepeilei/PersonalBlog/raw/master/sketch/4.jpg)  
-![](https://github.com/xuepeilei/PersonalBlog/raw/master/sketch/5.jpg)  
+
+![](https://github.com/xuepeilei/PersonalBlog/raw/master/sketch/2.jpg)
+
+![](https://github.com/xuepeilei/PersonalBlog/raw/master/sketch/3.jpg)
+
+![](https://github.com/xuepeilei/PersonalBlog/raw/master/sketch/4.jpg)
+
+![](https://github.com/xuepeilei/PersonalBlog/raw/master/sketch/5.jpg)
+
 
 
 <h1>如果有任何问题，请联系我！邮箱：xuepeilei@163.com</h1>
